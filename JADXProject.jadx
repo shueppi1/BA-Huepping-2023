@@ -1,0 +1,278 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "..\\ba-2023-dev.apk"
+  ],
+  "treeExpansions": [
+    [
+      "Resources",
+      "ba-2023-dev.apk"
+    ],
+    [
+      "resources.arsc",
+      "Resources",
+      "ba-2023-dev.apk"
+    ],
+    [
+      "assets",
+      "Resources",
+      "ba-2023-dev.apk"
+    ],
+    [
+      "bin",
+      "assets",
+      "Resources",
+      "ba-2023-dev.apk"
+    ],
+    [
+      "Data",
+      "bin",
+      "assets",
+      "Resources",
+      "ba-2023-dev.apk"
+    ],
+    [
+      "com",
+      "Source code",
+      "ba-2023-dev.apk"
+    ],
+    [
+      "UnityTechnologies.VRbowling",
+      "com",
+      "Source code",
+      "ba-2023-dev.apk"
+    ],
+    [
+      "google.androidgamesdk",
+      "com",
+      "Source code",
+      "ba-2023-dev.apk"
+    ],
+    [
+      "unity3d.player",
+      "com",
+      "Source code",
+      "ba-2023-dev.apk"
+    ],
+    [
+      "com.unity3d.player.NetworkConnectivity",
+      "unity3d.player",
+      "com",
+      "Source code",
+      "ba-2023-dev.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.UnityTechnologies.VRbowling.BuildConfig",
+      "subPath": "java",
+      "caret": 95,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.UnityTechnologies.VRbowling.R",
+      "subPath": "java",
+      "caret": 846,
+      "view": {
+        "x": 0,
+        "y": 40
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.google.androidgamesdk.ChoreographerCallback",
+      "subPath": "java",
+      "caret": 202,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.google.androidgamesdk.SwappyDisplayManager",
+      "subPath": "java",
+      "caret": 518,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.unity3d.player.BuildConfig",
+      "subPath": "java",
+      "caret": 82,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.unity3d.player.a",
+      "subPath": "java",
+      "caret": 1054,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.unity3d.player.AudioVolumeHandler",
+      "subPath": "java",
+      "caret": 141,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.unity3d.player.g",
+      "subPath": "java",
+      "caret": 338,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.unity3d.player.h",
+      "subPath": "java",
+      "caret": 714,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.unity3d.player.UnityPlayer",
+      "subPath": "java",
+      "caret": 54215,
+      "view": {
+        "x": 0,
+        "y": 22421
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.unity3d.player.UnityPlayerActivity",
+      "subPath": "java",
+      "caret": 275,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.unity3d.player.Camera2Wrapper",
+      "subPath": "java",
+      "caret": 175,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.unity3d.player.R",
+      "subPath": "java",
+      "caret": 82,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.unity3d.player.i",
+      "subPath": "java",
+      "caret": 826,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.unity3d.player.NetworkConnectivity",
+      "subPath": "java",
+      "caret": 589,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.unity3d.player.o",
+      "subPath": "java",
+      "caret": 2980,
+      "view": {
+        "x": 0,
+        "y": 462
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.unity3d.player.UnityCoreAssetPacksStatusCallbacks",
+      "subPath": "java",
+      "caret": 69,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.unity3d.player.UnityPermissions",
+      "subPath": "java",
+      "caret": 385,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.unity3d.player.c",
+      "subPath": "java",
+      "caret": 10746,
+      "view": {
+        "x": 0,
+        "y": 3717
+      }
+    },
+    {
+      "type": "resource",
+      "tabPath": "AndroidManifest.xml",
+      "subPath": "",
+      "caret": 2750,
+      "view": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  ],
+  "activeTab": 19,
+  "cacheDir": "..\\ba-2023-dev.apk.cache",
+  "enableLiveReload": false,
+  "searchHistory": [
+    "Overlay",
+    "camera"
+  ]
+}
